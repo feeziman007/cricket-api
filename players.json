@@ -1,0 +1,57 @@
+{
+  "cricket": {
+    "teams": [
+      {
+        "Australia": [
+          "Michael Clarke",
+          "James Faulkner",
+          "Aaron Finch",
+          "Ryan Harris",
+          "Mitchell Johnson",
+          "Mitchell Marsh",
+          "Peter Nevill",
+          "Peter Siddle",
+          "Mitchell Starc",
+          "David Warner",
+          "Pat Cummins",
+          "Fawad Ahmed",
+          "Brad Haddin",
+          "Josh Hazlewood",
+          "Nathan Lyon",
+          "Shaun Marsh",
+          "Chris Rogers",
+          "Steven Smith",
+          "Adam Voges",
+          "Shane Watson"
+        ]
+      },
+      {
+        "Bangladesh": []
+      },
+      {
+        "England": []
+      },
+      {
+        "India": []
+      },
+      {
+        "New Zealand": []
+      },
+      {
+        "Pakistan": []
+      },
+      {
+        "South Africa": []
+      },
+      {
+        "Sri Lanka": []
+      },
+      {
+        "West Indies": []
+      },
+      {
+        "Zimbabwe": []
+      }
+    ]
+  }
+}
