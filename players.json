@@ -74,6 +74,11 @@
         "Zimbabwe": []
       }
     ],
-    "venues": []
+    "modes": [
+      "First class",
+      "Test",
+      "ODI",
+      "T20"
+    ]
   }
 }
