@@ -1,6 +1,6 @@
 {
-  "name": "Javascript-Library",
-  "version": "1.0.0",
+  "name": "cricket-players",
+  "version": "1.1.0",
   "description": "Get cricket team players",
   "main": "server.js",
   "scripts": {
