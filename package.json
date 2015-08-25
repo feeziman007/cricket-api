@@ -1,0 +1,27 @@
+{
+  "name": "Javascript-Library",
+  "version": "1.0.0",
+  "description": "Get cricket team players",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feeziman007/cricket-players.git"
+  },
+  "keywords": [
+    "cricket",
+    "teams",
+    "players"
+  ],
+  "author": "Hafeez Syed <feeziman007@hotmail.com> (http://www.syed-hafeez.com/)",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/feeziman007/cricket-players/issues"
+  },
+  "homepage": "https://github.com/feeziman007/cricket-players",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
