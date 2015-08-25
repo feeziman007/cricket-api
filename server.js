@@ -1,8 +1,12 @@
 var cricketPlayers = require('./players.json')
     , uniqueRandomArray = require('unique-random-array')
-    , teams = cricketPlayers.cricket.teams
+    , everything = cricketPlayers.cricket
+    , teams = everything.teams
+    , modes = everything.modes
 
 module.exports = {
-    all: teams,
+    all: everything,
+    teams: teams,
+    modes: modes,
     random: uniqueRandomArray(teams)
 }
