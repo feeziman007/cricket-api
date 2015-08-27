@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "0.12"
 before_install:
-  - npm i -g npm
-  - npm i
+  - npm install -g npm
+  - npm install
 script:
   - npm test
