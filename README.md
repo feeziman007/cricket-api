@@ -4,3 +4,7 @@
 =====
 
 ### This will have crickets players of current top teams
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/feeziman007/cricket-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
