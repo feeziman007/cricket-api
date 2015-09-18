@@ -5,11 +5,12 @@
   "main": "server.js",
   "scripts": {
     "test": "mocha test/test.js",
-    "test-travis": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- -R spec test/test.js"
+    "test-travis": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- -R spec test/test.js",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/feeziman007/cricket-players.git"
+    "url": "https://github.com/hafeez-syed/cricket-players.git"
   },
   "keywords": [
     "cricket",
@@ -19,9 +20,9 @@
   "author": "Hafeez Syed",
   "license": "GNU",
   "bugs": {
-    "url": "https://github.com/feeziman007/cricket-players/issues"
+    "url": "https://github.com/hafeez-syed/cricket-players/issues"
   },
-  "homepage": "https://github.com/feeziman007/cricket-players",
+  "homepage": "https://github.com/hafeez-syed/cricket-players",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
@@ -29,6 +30,7 @@
     "chai": "3.2.0",
     "coveralls": "2.11.4",
     "istanbul": "0.3.18",
-    "mocha": "2.2.5"
+    "mocha": "2.2.5",
+    "semantic-release": "4.3.5"
   }
 }
