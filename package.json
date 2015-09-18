@@ -1,16 +1,17 @@
 {
   "name": "cricket-players",
-  "version": "2.0.0",
+  "version": "0.0.0-semantically-released",
   "description": "Get cricket team players",
   "main": "server.js",
   "scripts": {
+    "commit": "git-cz",
     "test": "mocha test/test.js",
     "test-travis": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- -R spec test/test.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hafeez-syed/cricket-players.git"
+    "url": "https://github.com/hafeez-syed/cricket-api.git"
   },
   "keywords": [
     "cricket",
@@ -28,9 +29,14 @@
   },
   "devDependencies": {
     "chai": "3.2.0",
+    "commitizen": "1.0.4",
     "coveralls": "2.11.4",
+    "cz-conventional-changelog": "1.1.0",
     "istanbul": "0.3.18",
     "mocha": "2.2.5",
-    "semantic-release": "4.3.5"
+    "semantic-release": "^4.3.5"
+  },
+  "czConfig": {
+    "path": "./node_modules/cz-conventional-changelog"
   }
 }
