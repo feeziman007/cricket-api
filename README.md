@@ -5,6 +5,8 @@ CI Build Status | Code Coverage | Dependencies and others |
 [![Codeship Status for hafeez-syed/cricket-api](https://codeship.com/projects/c32fbd90-2e98-0133-bfb7-3a2a4d3529b0/status?branch=master)](https://codeship.com/projects/99151) | [![codecov.io](http://codecov.io/github/hafeez-syed/cricket-api/coverage.svg?branch=master)](http://codecov.io/github/hafeez-syed/cricket-api?branch=master) | [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) |
 "-" | "-" | [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hafeez-syed/cricket-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge") |
 
+![codecov.io](http://codecov.io/github/hafeez-syed/cricket-api/branch.svg?branch=master&vg=t&limit=50)
+
 
 [Cricket API](https://github.com/hafeez-syed/cricket-api) 
 =====
