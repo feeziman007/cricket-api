@@ -1,7 +1,7 @@
 {
-  "name": "cricket-players",
+  "name": "cricket-api",
   "version": "2.0.1",
-  "description": "Get cricket team players",
+  "description": "Get cricket team APIs",
   "main": "server.js",
   "scripts": {
     "commit": "git-cz",
@@ -21,9 +21,9 @@
   "author": "Hafeez Syed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hafeez-syed/cricket-players/issues"
+    "url": "https://github.com/hafeez-syed/cricket-api/issues"
   },
-  "homepage": "https://github.com/hafeez-syed/cricket-players",
+  "homepage": "https://github.com/hafeez-syed/cricket-api",
   "dependencies": {
     "codecov.io": "0.1.6",
     "unique-random-array": "1.0.0"
