@@ -6,7 +6,7 @@
   "scripts": {
     "commit": "git-cz",
     "test": "mocha test/test.js",
-    "test-travis": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- -R spec test/test.js",
+    "test-travis": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- -R spec test/test.js && cat ./coverage/coverage.json | ./node_modules/codecov.io/bin/codecov.io.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/hafeez-syed/cricket-players",
   "dependencies": {
+    "codecov.io": "0.1.6",
     "unique-random-array": "1.0.0"
   },
   "devDependencies": {
