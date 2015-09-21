@@ -1,5 +1,5 @@
-[![dependencies](https://david-dm.org/hafeez-syed/cricket-api.svg)](https://david-dm.org/hafeez-syed/cricket-api) 
-[![devDependencies](https://david-dm.org/hafeez-syed/cricket-api.svg)](https://david-dm.org/hafeez-syed/cricket-api#info=devDependencies) 
+[![Dependency Status](https://david-dm.org/hafeez-syed/cricket-api.svg)](https://david-dm.org/hafeez-syed/cricket-api) 
+[![devDependency Status](https://david-dm.org/hafeez-syed/cricket-api.svg)](https://david-dm.org/hafeez-syed/cricket-api#info=devDependencies) 
 [![Coverage Status](https://coveralls.io/repos/feeziman007/cricket-api/badge.svg?branch=master&service=github)](https://coveralls.io/github/hafeez-syed/cricket-api?branch=master) 
 [![Code Climate](https://codeclimate.com/github/hafeez-syed/cricket-api/badges/gpa.svg)](https://codeclimate.com/github/hafeez-syed/cricket-api) 
 [![Build Status](https://travis-ci.org/hafeez-syed/cricket-api.svg?branch=master)](https://travis-ci.org/hafeez-syed/cricket-api) 
