@@ -7,6 +7,7 @@ CI Build Status | Code Coverage | Dependencies and others |
 
 ![codecov.io](http://codecov.io/github/hafeez-syed/cricket-api/branch.svg?branch=master&vg=t&limit=50)
 
+[![NPM](https://nodei.co/npm/cricket-api.png)](https://nodei.co/npm/cricket-api/)
 
 [Cricket API](https://github.com/hafeez-syed/cricket-api) 
 =====
