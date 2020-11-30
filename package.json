@@ -26,16 +26,16 @@
   "homepage": "https://github.com/hafeez-syed/cricket-api",
   "dependencies": {
     "codecov.io": "0.1.6",
-    "unique-random-array": "1.0.0"
+    "unique-random-array": "2.0.0"
   },
   "devDependencies": {
-    "chai": "3.2.0",
-    "commitizen": "1.0.4",
-    "coveralls": "2.11.4",
-    "cz-conventional-changelog": "1.1.0",
-    "istanbul": "0.3.18",
-    "mocha": "2.2.5",
-    "semantic-release": "^4.3.5"
+    "chai": "4.2.0",
+    "commitizen": "4.2.2",
+    "coveralls": "3.1.0",
+    "cz-conventional-changelog": "3.3.0",
+    "istanbul": "0.4.5",
+    "mocha": "8.2.1",
+    "semantic-release": "^17.3.0"
   },
   "czConfig": {
     "path": "./node_modules/cz-conventional-changelog"
